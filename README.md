@@ -13,9 +13,9 @@
 
 * https://www.eneba.com/
 * https://www.integradosargentinos.com/
-* https://www.venex.com.ar/
-* https://compragamer.com/armatupc
-* https://compucordoba.com.ar/
+* https://www.venex.com.ar/   Diseño, colores llamativos, prmociones vistosas
+* https://compragamer.com/armatupc   Marcas promocionadas en la parte baja con "sistema tipo giratorio"
+* https://compucordoba.com.ar/   ingreso de la pagina
 * https://www.compugarden.com.ar/
 * https://www.slot-one.com.ar/
 * https://spacegamer.com.ar/
