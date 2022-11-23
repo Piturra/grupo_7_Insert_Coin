@@ -12,7 +12,7 @@
 #### Sitios de referencia:
 
 * https://www.eneba.com/ Es un sitio organizado. Muestra una estructura fácil de usar, separando por modulos donde se coloca las recomendacioness según el usuario, top ten de juegos, las mejores tarjetas de regalo, próximo juegos y culmina con una categorización según tipo de juegos
-* https://www.integradosargentinos.com/
+* https://www.integradosargentinos.com/ Es un sitio de tecnología que da las opciones  parar armar tu equipo en función de tus necesidades, aportando todos los equipos y accesorios. es un sitio dinámico, sencillo, llamativo y de fácil uso, coloca el paso a paso de compra.
 * https://www.venex.com.ar/  En este sitio lo que más nos llamó la atención fue el diseño, los colores llamativos, y aquellas promociones vistosas.
 * https://compragamer.com/armatupc  En este sitio lo que más nos llamó la atención fueron las marcas promocionadas en la parte baja con "sistema tipo giratorio"
 * https://compucordoba.com.ar/   En este sitio lo que más nos llamó la atención fue el ingreso de la pagina (logo girando) hasta que finaliza el cargado.
