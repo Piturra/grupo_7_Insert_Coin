@@ -11,7 +11,7 @@
 
 #### Sitios de referencia:
 
-* https://www.eneba.com/
+* https://www.eneba.com/ Es un sitio organizado. Muestra una estructura fácil de usar, separando por modulos donde se coloca las recomendacioness según el usuario, top ten de juegos, las mejores tarjetas de regalo, próximo juegos y culmina con una categorización según tipo de juegos
 * https://www.integradosargentinos.com/
 * https://www.venex.com.ar/  En este sitio lo que más nos llamó la atención fue el diseño, los colores llamativos, y aquellas promociones vistosas.
 * https://compragamer.com/armatupc  En este sitio lo que más nos llamó la atención fueron las marcas promocionadas en la parte baja con "sistema tipo giratorio"
